@@ -57,7 +57,7 @@ Sou um entusiasta em tecnologia. Expandi minha conta no TikTok para 24 mil segui
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=xNasc&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=xNasc&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
