@@ -1,6 +1,8 @@
 # 🫡 Alan Nascimento
 
-Sou um entusiasta em tecnologia. Expandi minha conta no TikTok para 24 mil seguidores, aumentando o engajamento por meio de otimização SEO. Tenho conhecimento com **Python**, **HTML**/**CSS** e **JavaScript**. Atualmente, estou mergulhando no mundo da **Cybersegurança**, explorando **Técnicas de Blue Team** para proteger sistemas e redes.
+Sou um entusiasta em tecnologia. Expandi minha conta no TikTok para 24 mil seguidores, aumentando o engajamento por meio de otimização SEO. Tenho conhecimento com **Python**, **HTML**/**CSS** e **JavaScript**. Atualmente, estou mergulhando no mundo da **Cybersegurança**, explorando **Técnicas de Blue Team** para proteger sistemas e redes. 
+
+*ESTOU SUBINDO ALGUNS PROJETOS AOS POUCOS.
 
 
 
@@ -16,9 +18,9 @@ Sou um entusiasta em tecnologia. Expandi minha conta no TikTok para 24 mil segui
 - **Ferramentas**: Git, GitHub, VS Code, Kali Linux, Parrot OS, ambientes de teste (ex.: TryHackMe, Hack The Box).
 
 ## ⭐ Projetos em Destaque
-- [Portfólio Pessoal](link): Um site responsivo com HTML, CSS e JavaScript, personalizado.
-- [Script de Automação](link): Um projeto em Python para analisar logs simples.
-- [Análise de Rede](link): Projeto de estudo com Wireshark para monitoramento de tráfego de rede.
+- [Portfólio Pessoal](link): Um site responsivo com HTML, CSS e JavaScript, personalizado. (EM BREVE)
+- [Script de Automação](link): Um projeto em Python para analisar logs simples. (EM BREVE)
+- [Análise de Rede](link): Projeto de estudo com Wireshark para monitoramento de tráfego de rede. (EM BREVE)
 - [Bot de Visualização Twitch Offline](https://github.com/xNasc/twitch-bot-views):  Ele abre abas anônimas do Google Chrome (automatizadas) para o canal de destino na Twitch. Não usa proxy.
 
 ## 📚 Atualmente Aprendendo
