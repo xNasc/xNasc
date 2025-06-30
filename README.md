@@ -18,9 +18,8 @@ Sou um entusiasta em tecnologia. Tenho conhecimento com **Python**, **HTML**/**C
 - **Ferramentas**: Git, GitHub, VS Code, Kali Linux, Parrot OS, ambientes de teste (ex.: TryHackMe, Hack The Box).
 
 ## ⭐ Projetos em Destaque
-- [Portfólio Pessoal](link): Um site responsivo com HTML, CSS e JavaScript, personalizado. (EM BREVE)
 - [Script de Automação](link): Um projeto em Python para analisar logs simples. (EM BREVE)
-- [Análise de Rede](link): Projeto de estudo com Wireshark para monitoramento de tráfego de rede. (EM BREVE)
+- [Análise de Rede](https://github.com/xNasc/Rede-log): Projeto de estudo com Wireshark para monitoramento de tráfego de rede. (EM BREVE)
 - [Bot de Visualização Twitch Offline](https://github.com/xNasc/twitch-bot-views):  Ele abre abas anônimas do Google Chrome (automatizadas) para o canal de destino na Twitch. Não usa proxy.
 
 ## 📚 Atualmente Aprendendo
