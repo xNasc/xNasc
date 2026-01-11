@@ -1,6 +1,6 @@
 # 🫡 Alan Nascimento
 
-Sou um entusiasta em tecnologia. Tenho conhecimento com **Python**, **HTML**/**CSS** e **JavaScript**. Atualmente, estou mergulhando no mundo da **Cybersegurança**, explorando **Técnicas de Blue Team** para proteger sistemas e redes. Também expandi minha conta no TikTok para 24 mil seguidores, aumentando o engajamento por meio de otimização SEO.
+Tenho conhecimento com **Python**, **HTML**/**CSS** e **JavaScript**. Explorando **Técnicas de Blue Team** para proteger sistemas e redes. Também expandi minha conta no TikTok para 24 mil seguidores, aumentando o engajamento por meio de otimização SEO.
 
 
 
