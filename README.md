@@ -30,7 +30,7 @@ Tenho conhecimento com **Python**, **HTML**/**CSS** e **JavaScript**. Explorando
 - E-mail: idnascimento.biz@gmail.com
 - LinkedIn: https://www.linkedin.com/in/alan-nascimento489/
 - Doação: https://bit.ly/thenascxstp
-
+- Instagram: https://www.instagram.com/alannascimento.oficial/
 
 
 
