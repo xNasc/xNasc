@@ -1,6 +1,7 @@
 # 🫡 Alan Nascimento
 
-Tenho conhecimento com **Python**, **HTML**/**CSS** e **JavaScript**. Explorando **Técnicas de Blue Team** para proteger sistemas e redes. Também expandi minha conta no TikTok para 24 mil seguidores, aumentando o engajamento por meio de otimização SEO.
+Sólida experiência em crescimento orgânico de redes sociais e edições de vídeos curtos para TikTok, Reels e YouTube Shorts.
+Também tenho conhecimento com **Python**, **HTML**/**CSS** e **JavaScript** e **Técnicas de Blue Team** para proteger sistemas e redes.
 
 
 
@@ -13,7 +14,7 @@ Tenho conhecimento com **Python**, **HTML**/**CSS** e **JavaScript**. Explorando
   - Ferramentas: Nmap, Metasploit, Burp Suite, Wireshark.
   - Conceitos: Análise de logs, mapeamento de ameaças.
 
-- **Ferramentas**: Git, GitHub, VS Code, Kali Linux, Parrot OS, ambientes de teste (ex.: TryHackMe, Hack The Box).
+- **Ferramentas**: GitHub, VS Code, Kali Linux, Parrot OS, ambientes de teste (ex.: TryHackMe, Hack The Box).
 
 ## ⭐ Projetos em Destaque
 - [Script de Automação](link): Um projeto em Python para analisar logs simples. (EM BREVE)
@@ -28,9 +29,9 @@ Tenho conhecimento com **Python**, **HTML**/**CSS** e **JavaScript**. Explorando
 
 ## 📬 Entre em Contato
 - E-mail: idnascimento.biz@gmail.com
-- LinkedIn: https://www.linkedin.com/in/alan-nascimento489/
+- LinkedIn: https://www.linkedin.com/in/alan-nascimento-mediamanager/
 - Doação: https://bit.ly/thenascxstp
-- Instagram: https://www.instagram.com/alannascimento.oficial/
+- Instagram: https://www.instagram.com/alan.nascimento11/
 
 
 
